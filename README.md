@@ -2,8 +2,8 @@
 
 Tecnologias usadas:
 
--React/ Vite
+- React: Vite
 
--FireBase V10
+- FireBase V10
 
--Libreria Emoji picke npm
+- Libreria Emoji picke npm
