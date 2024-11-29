@@ -1,4 +1,4 @@
-# CHAT APP REACT
+# APP CHAT REACT
 
 Tecnologias usadas:
 
