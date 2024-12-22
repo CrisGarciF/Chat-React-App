@@ -1,6 +1,6 @@
 # APP CHAT REACT
 
-Tecnologias usadas:
+Tecnologias utilizadas:
 
 - React: Vite
 
