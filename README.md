@@ -9,3 +9,6 @@ Tecnologias utilizadas:
 - FireBase V10.
 
 - Libreria Emoji picke npm.
+
+
+....
